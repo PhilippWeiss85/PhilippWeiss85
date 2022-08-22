@@ -18,10 +18,10 @@ Besides my new love for coding I also love to play (video)games and addicted to 
 ### In my former job as marketer I got wide experience within the field of CRM including skills like
 
 
-:white_check_mark:`Marketing automation`<br>
+:white_check_mark:`Marketing Automation`<br>
 :white_check_mark:`ESP Implementation`<br>
-:white_check_mark:`E-Mail marketing`<br>
+:white_check_mark:`E-Mail Marketing`<br>
 :white_check_mark:`Project Management`<br>
-:white_check_mark:`Targetgroup selections & logics`
+:white_check_mark:`Targetgroup Selections & Logics`
 
 Feel free to contact me.
