@@ -16,6 +16,6 @@ Skills im looking forward to aquire:
 
 ## I got wide experience within the field of CRM including
 
-[x] Marketing automation | [x] ESP Implementation | [x] E-Mail marketing | [x] Project Management | [x] Targetgroup selections & logics
+[x]`Marketing automation` | [x]`ESP Implementation` | [x]`E-Mail marketing` | [x]`Project Management` | [x]`Targetgroup selections & logics`
 
 Feel free to contact me.
