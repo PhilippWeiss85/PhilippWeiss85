@@ -23,5 +23,3 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 :white_check_mark:`E-Mail Marketing`<br>
 :white_check_mark:`Project Management`<br>
 :white_check_mark:`Targetgroup Selections & Logics`
-
-Feel free to contact me.
