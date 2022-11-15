@@ -20,12 +20,6 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 - MongoDB
 
 
-## Marketingstack:
-- CRM
-- Marketing Automation
-- E-Mail-Marketing
-- Project-Management
-- Marketing-Strategy
 
 
 ### In my former job as marketer I got wide experience within the field of CRM including skills like
