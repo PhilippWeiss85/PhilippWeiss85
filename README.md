@@ -8,7 +8,7 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 
 
 ## Techstack:
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=430&pause=250&color=091E27&vCenter=true&multiline=true&width=435&height=200&lines=HTML;CSS;JavaScript;React;Next.js;Styled-Components;Zustand;mongoose;MongoDB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=650&pause=400&color=F7F7F7&width=435&lines=HTML;CSS;JavaScript;React;Next.js;Zustand;mongoose;MongoDB)](https://git.io/typing-svg)
 
 
 ### In my former job as marketer I got wide experience within the field of CRM including skills like
