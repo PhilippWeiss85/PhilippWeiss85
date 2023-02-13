@@ -6,9 +6,9 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 ![matrix](https://media3.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47t5im6ir60nmaiuhd2uax01qr8yurgsw9gvhvqtkx&rid=giphy.gif&ct=g "That´s how I feel :D")
 
 
-
+<br>
+<br>
 Deployed Projects:
-
 Pokemon Game: https://pokemongame-five.vercel.app/<br>
 Tennis Organizer: http://capstone-project-alpha-sandy.vercel.app/
 
