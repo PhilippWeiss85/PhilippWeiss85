@@ -8,7 +8,8 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 
 
 Deployed Projects:
-Pokemon Game: https://pokemongame-five.vercel.app/
+
+Pokemon Game: https://pokemongame-five.vercel.app/<br>
 Tennis Organizer: http://capstone-project-alpha-sandy.vercel.app/
 
 ## Techstack:
