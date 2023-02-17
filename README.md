@@ -9,6 +9,7 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 <br>
 <br>
 Deployed Projects:
+<br>
 Pokemon Game: https://pokemongame-five.vercel.app/<br>
 Tennis Organizer: http://capstone-project-alpha-sandy.vercel.app/<br>
 Calculator: https://calculator-tawny-alpha.vercel.app/
