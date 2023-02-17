@@ -1,6 +1,6 @@
 # Hi and welcome to my GitHub page!
 
-My name ist Philipp and i am a former marketeer looking forward to a new challenge in web development.<br>
+My name ist Philipp and i am a former marketer looking forward to a new challenge in web development.<br>
 Besides my new love for coding I also like to play videogames, do some cooking and I am also addicted to tennis.
 
 ![matrix](https://media3.giphy.com/media/A06UFEx8jxEwU/giphy.gif?cid=ecf05e47t5im6ir60nmaiuhd2uax01qr8yurgsw9gvhvqtkx&rid=giphy.gif&ct=g "That´s how I feel :D")
