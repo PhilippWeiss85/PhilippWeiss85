@@ -12,6 +12,7 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 Pokemon Game: https://pokemongame-five.vercel.app/<br>
 Tennis Organizer: http://capstone-project-alpha-sandy.vercel.app/<br>
 Calculator: https://calculator-tawny-alpha.vercel.app/
+Chuck Norris Quote Generator: https://chuck-quotes-theta.vercel.app/
 
 ## Techstack:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=650&pause=400&color=F7F7F7&width=435&lines=HTML;CSS;JavaScript;React;Next.js;Zustand;mongoose;MongoDB)](https://git.io/typing-svg)
