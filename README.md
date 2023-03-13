@@ -14,7 +14,7 @@ Besides my new love for coding I also like to play videogames, do some cooking a
 |Pokemon Game|https://pokemongame-five.vercel.app/|
 |CourtiSoul: Tennis Organizer|http://capstone-project-alpha-sandy.vercel.app/|
 |Calculator|https://calculator-tawny-alpha.vercel.app/|
-|Quote Generator|https://chuck-quotes-theta.vercel.app/|
+
 
 
 ## Techstack:
